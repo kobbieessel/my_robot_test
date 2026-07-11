@@ -1,1 +1,1 @@
-print("Raspberry Pi is alive")
+print("This is a test script")
